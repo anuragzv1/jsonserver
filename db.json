@@ -1,31 +1,31 @@
 {
-  "products":[
-    {
-      "id":1,
-      "title":"chair",
-      "description":"Optimal comfort: Covered with high-quality soft PU, durable and comfortable; ergonomic Seat and circular footrest keep you comfy while working in Kitchen or relaxing",
-      "rating":5,
-      "img":"https://sc01.alicdn.com/kf/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA/202488798/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA.jpg_.webp",
-      "price":4999
-    },
-    {
-      "id":2,
-      "title":"Mobile",
-      "description":"Realme XT price in India starts from ₹ 16,999. The lowest price of Realme XT is ₹ 16,999 at Flipkart on 24th August 2020. This smartphone is available in 2 other variants like 6GB RAM + 64GB Storage, 8GB RAM + 128GB Storage with colour options like Pearl Blue and Pearl White.",
-      "rating":4,
-      "img":"https://www.gizmochina.com/wp-content/uploads/2019/08/Realme-XT-1-500x500.jpg",
-      "price":15999
-    },
-    {
-      "id":3,
-      "title":"Car",
-      "description":"The third generation Maruti Suzuki Swift has been launched in the country with prices starting at Rs 4.99 lakh (ex-showroom, Delhi). The newest iteration of the hatchback is priced up to Rs 8.29 lakh for the range-topping variant.",
-      "rating":4,
-      "img":"https://imgd.aeplcdn.com/1056x594/n/cw/ec/26742/swift-exterior-right-front-three-quarter-2.jpeg?q=85",
-      "price":800000
-    }
-  ],
-  "settings":{
-    "page":1,
-  }
+	"products": [{
+			"id": 1,
+			"title": "chair",
+			"description": "Optimal comfort: Covered with high-quality soft PU, durable and comfortable; ergonomic Seat and circular footrest keep you comfy while working in Kitchen or relaxing",
+			"rating": 5,
+			"img": "https://sc01.alicdn.com/kf/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA/202488798/HTB1AuJKdBKw3KVjSZTEq6AuRpXaA.jpg_.webp",
+			"price": 4999
+		},
+		{
+			"id": 2,
+			"title": "Mobile",
+			"description": "Realme XT price in India starts from ₹ 16,999. The lowest price of Realme XT is ₹ 16,999 at Flipkart on 24th August 2020. This smartphone is available in 2 other variants like 6GB RAM + 64GB Storage, 8GB RAM + 128GB Storage with colour options like Pearl Blue and Pearl White.",
+			"rating": 4,
+			"img": "https://www.gizmochina.com/wp-content/uploads/2019/08/Realme-XT-1-500x500.jpg",
+			"price": 15999
+		},
+		{
+			"id": 3,
+			"title": "Car",
+			"description": "The third generation Maruti Suzuki Swift has been launched in the country with prices starting at Rs 4.99 lakh (ex-showroom, Delhi). The newest iteration of the hatchback is priced up to Rs 8.29 lakh for the range-topping variant.",
+			"rating": 4,
+			"img": "https://imgd.aeplcdn.com/1056x594/n/cw/ec/26742/swift-exterior-right-front-three-quarter-2.jpeg?q=85",
+			"price": 800000
+		}
+	],
+	"settings": {
+		"page": 1,
+		"loading": false
+	}
 }
