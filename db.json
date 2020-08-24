@@ -25,5 +25,6 @@
       "price":800000
     }
   ],
-  "page":1
+  "settings":{
+    "page":1
 }
